@@ -1,5 +1,5 @@
 {
-    "name": "rgnk wabot",
+    "name": "ঔৣ⃕͜🌹Zayan🌹 ⃟༘✪͜͡࿐",
     "description": "WhatsApp public/user bot",
     "logo": "",
     "keywords": ["WhatsApp"],
@@ -31,12 +31,12 @@
        "HEROKU_API_KEY": {
             "description": "For updating bot and setting vars remotely",
             "required": true,
-            "value":""
+            "value":"HRKU-07360a14-53c1-4e1e-a907-f23084f0a6e4"
         },
         "HEROKU_APP_NAME": {
             "description": "Exact name which you gave at the top",
             "required": true,
-            "value":""
+            "value":"zayan"
         },
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
@@ -65,8 +65,8 @@
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
-            "required": false,
-            "value":""
+            "required": true,
+            "value":"601117508525"
         },
         "BLOCK_CHAT": {
             "description": "Block bot in specific groups, enter jids here sepereated with commas",
@@ -80,7 +80,7 @@
         },
         "ALLOWED": {
             "description": "Country codes allowed by antifake",
-            "required": false,
+            "required": true,
             "value":"91,48"
         },
         "WARN": {
@@ -90,8 +90,8 @@
         },
         "LANGUAGE": {
             "description": "Available languages: english,manglish,turkish",
-            "required": false,
-            "value":"english"
+            "required": true,
+            "value":"english,Manglish"
         },
         "AUTO_READ_STATUS": {
             "description": "View status updates automatically",
